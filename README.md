@@ -1,5 +1,8 @@
 # OCT23 T3W3 Web Project - Local Storage
 
+- [Github Pages](https://jimmylam9758.github.io/oct23-t3w3-webproject/)
+- [Netlify](https://main--jimmylocalstorageexample.netlify.app)
+
 ## Features
 
 1. Use local storage to persist CSS theme information
